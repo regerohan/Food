@@ -2,5 +2,5 @@
 Food, undemonstrated, alternative nutrition, experimental
 
 
-> Mixing stuff consuming can be dangerous if you don't now what you're doing
+> Mixing stuff and then consuming it can be dangerous
 > I'm not liable for anything
