@@ -9,13 +9,13 @@ An alternative to the instant noodles. I started this experiement because I love
 
 ### Ingredients  ###
 
-1. Oats 1/2 a cup
+1. Oats 1.5 cups
 1. Smith & Jones Pasta masala
-1. Water 1 and 1/2 cups
+1. Water 3 cups
 
 ### How do I get set up? ###
 
-* Bring 1 & 1/2 cups of water to boil in a sufficently large vessel.
+* Bring 3 cups of water to boil in a sufficently large vessel.
 * Add the oats, and keep mixing, until the mixture turns viscous.
 * Bring it to the consistency of "Baked beans in sauce"
 * Add 1/2 of pasta masala.
@@ -30,6 +30,15 @@ An alternative to the instant noodles. I started this experiement because I love
 > * Tasted decent, but oats unlike the instant noodles have a slightly sweet taste when you chew into them.  
 > * Felt hungry again after ~ 1.5hrs.  
 > * Overall a solid 5/10
+
+#### 1Mar2021 ####
+> * Added masala when the water was boiling, oats foam a lot and caused lot of clumps    
+> * Added 3 cups of water, 1.5 cups of oats, 1.5 packets of masala.  
+> * New ratio is 'N ml' , 'N/2 ml' of oats and 'N/2 packets' of masala.  
+> * Tasted same as yesterday.
+> * Still weirded about the sweet taste.  
+> * Felt hungry again after ~ 1.5hrs.  
+> * Overall a solid 5/10.  
 
 ### To do ###
 
