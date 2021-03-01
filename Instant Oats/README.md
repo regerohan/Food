@@ -18,7 +18,7 @@ An alternative to the instant noodles. I started this experiement because I love
 * Bring 3 cups of water to boil in a sufficently large vessel.
 * Add the oats, and keep mixing, until the mixture turns viscous.
 * Bring it to the consistency of "Baked beans in sauce"
-* Add 1/2 of pasta masala.
+* Add 1.5 of pasta masala.
 * Mix till uniform
 * Enjoy
 
