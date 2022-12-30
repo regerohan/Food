@@ -93,7 +93,7 @@ I started this experiement because I'm trying to save money.
 |Total                          |           |                     |1.72391337          |
 
 **Total Cost per Serving ~1,8 euros**    
-**Cost of similar dish in a restaurant 9 to 15 euros**
+**Cost of similar dish (adjusted per serving) in a restaurant 4.5 to 7.5 euros**
 
 ### Contribution guidelines ###
 
